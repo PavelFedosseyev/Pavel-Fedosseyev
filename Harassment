@@ -1,0 +1,9 @@
+cd Downloads
+git clone URL
+cd namefoulder
+mkdir policy
+cd policy
+vim agree.txt
+git add .
+git commit -m "randomname"
+git push
