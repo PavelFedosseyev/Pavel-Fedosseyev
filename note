@@ -1,0 +1,4 @@
+rm //delete file 
+rm -rf //delete foulder
+mv //move file
+chmod //change access
