@@ -1,0 +1,5 @@
+
+touch testDay00
+chmod 000 test1
+touch -t YYYMMDDHHMM
+vim testDay00 (40 symbols)
