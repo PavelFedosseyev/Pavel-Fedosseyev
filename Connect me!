@@ -1,0 +1,5 @@
+google "Kerberos for Mac"
+kinit yourusername
+take krbtgt/42.US.ORG@42.US.ORG
+touch klist.txt
+add krbtgt/42.US.ORG@42.US.ORG in klist.txt
